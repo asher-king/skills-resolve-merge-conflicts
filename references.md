@@ -1,3 +1,3 @@
-#references
+# References
 
---Asher King-- atkiing@ucsd.edu - UCSD student - 
+* octocat 1 😈
